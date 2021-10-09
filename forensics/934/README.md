@@ -2,7 +2,8 @@
 
 ### Prompt
 
-Find the flag in the jpeg file. Good Luck!
+Find the flag in the jpeg file. Good Luck!\
+\
 https://ctflearn.com/challenge/download/934
 
 ### Approach
