@@ -11,11 +11,13 @@ https://ctflearn.com/challenge/download/883
 #### First Solution
 
 - The prompt and challenge title suggest that I have to use 'hexdump' to solve the challenge, but simply running 'strings' on the provided file revealed the flag.  
+
   [![https://imgur.com/o8glEER.png](https://imgur.com/o8glEER.png)](https://imgur.com/o8glEER.png)
 
 - Obtained the flag by simply cleaning out the string by removing unnecessary line-breaks and Hs.
 
 - Flag obtained : ```CTFlearn{fl4ggyfl4g}```  
+
 
 #### UPDATE : Second Solution
 
@@ -27,6 +29,7 @@ https://ctflearn.com/challenge/download/883
   hexdump -C file
   ```
 - Scrolled through the output to find the flag.
+
   [![https://imgur.com/omotBsk.png](https://imgur.com/omotBsk.png)](https://imgur.com/omotBsk.png)
 
 - Removed "H.E.H.U.H.E." as instructed in the prompt to reveal the flag.
