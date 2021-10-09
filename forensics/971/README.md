@@ -15,7 +15,6 @@ https://ctflearn.com/challenge/download/971
   hexdump -C Pho.jpg
   ```
 \
-\
   [![https://imgur.com/MxsNElN.png](https://imgur.com/MxsNElN.png)](https://imgur.com/MxsNElN.png)
 
 - Cleaning up the observed string gave me the flag.
