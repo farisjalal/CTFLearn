@@ -18,7 +18,7 @@ https://ctflearn.com/challenge/download/883
 
 - Flag obtained : ```CTFlearn{fl4ggyfl4g}```  
 
-
+  
 #### UPDATE : Second Solution
 
 - I then revisited this challenge to do it the "right" way, or rather, the way the author intended it.
