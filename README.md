@@ -1,4 +1,4 @@
-# CTFLearn Writeups
+# CTFLearn Write-ups
 
 Compilation of my write-ups for CTFLearn challenges. Might help those looking for guidance.\
 \
