@@ -26,4 +26,6 @@ Have Fun :)
 
   [![https://imgur.com/romaR53.png](https://imgur.com/romaR53.png)](https://imgur.com/romaR53.png)
 
+- Classified as 'Medium' difficulty, but should've been 'Easy' IMO.
+
 - Flag obtained : ```flag{eat_more_oreos}```
