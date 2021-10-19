@@ -15,3 +15,6 @@ https://github.com/zardus/ctf-tools
 #### Good checklist for steganography
 
 https://stegonline.georgeom.net/checklist
+
+
+https://bitvijays.github.io/LFC-Forensics.html
